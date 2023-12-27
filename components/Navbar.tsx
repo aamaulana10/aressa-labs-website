@@ -3,12 +3,11 @@ import React from 'react'
 
 function Navbar() {
     return (
-        <header id="header" className=" header fixed-top ">
+        <header id="header" className="fixed-top ">
             <div className="container d-flex align-items-center">
 
-                <h1 className="logo me-auto"><Link href="/">Aressa</Link></h1>
-                {/* Uncomment below if you prefer to use an image logo
-      <a href="index.html" className="logo me-auto"><img src="assets/img/logo.png" alt="" className="img-fluid"></a> */}
+                <h1 className="logo me-auto"><a className="nav-link" href="/">Aressa Labs</a></h1>
+                <a href="index.html" className="logo me-auto"><img src="assets/img/logo.png" alt="" className="img-fluid" /></a>
 
                 <nav id="navbar" className="navbar">
                     <ul>
@@ -17,9 +16,9 @@ function Navbar() {
                         <li><a className="nav-link scrollto" href="#services">Services</a></li>
                         <li><a className="nav-link   scrollto" href="#portfolio">Portfolio</a></li>
                         <li><a className="nav-link scrollto" href="#team">Team</a></li>
-                        <li className="dropdown"><a href="#"><span>Drop Down</span> <i className="bi bi-chevron-down"></i></a>
+                        <li className="dropdown"><a className="nav-link" href="#"><span>Drop Down</span> <i className="bi bi-chevron-down"></i></a>
                             <ul>
-                                <li><a href="#">Drop Down 1</a></li>
+                                <li><a className="nav-link" href="#">Drop Down 1</a></li>
                                 <li className="dropdown"><a href="#"><span>Deep Drop Down</span> <i className="bi bi-chevron-right"></i></a>
                                     <ul>
                                         <li><a href="#">Deep Drop Down 1</a></li>
@@ -35,7 +34,7 @@ function Navbar() {
                             </ul>
                         </li>
                         <li><a className="nav-link scrollto" href="#contact">Contact</a></li>
-                        <li><a className="getstarted scrollto" href="#about">Get Started</a></li>
+                        <li><a className="nav-link getstarted scrollto" href="#about">Get Started</a></li>
                     </ul>
                     <i className="bi bi-list mobile-nav-toggle"></i>
                 </nav>

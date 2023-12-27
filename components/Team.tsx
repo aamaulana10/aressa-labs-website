@@ -20,10 +20,10 @@ function Team() {
                                 <span>Chief Executive Officer</span>
                                 <p>Explicabo voluptatem mollitia et repellat qui dolorum quasi</p>
                                 <div className="social">
-                                    <a href=""><i className="ri-twitter-fill"></i></a>
-                                    <a href=""><i className="ri-facebook-fill"></i></a>
-                                    <a href=""><i className="ri-instagram-fill"></i></a>
-                                    <a href=""> <i className="ri-linkedin-box-fill"></i> </a>
+                                    <a className="nav-link" href=""><i className="ri-twitter-fill"></i></a>
+                                    <a className="nav-link" href=""><i className="ri-facebook-fill"></i></a>
+                                    <a className="nav-link" href=""><i className="ri-instagram-fill"></i></a>
+                                    <a className="nav-link" href=""> <i className="ri-linkedin-box-fill"></i> </a>
                                 </div>
                             </div>
                         </div>
@@ -37,10 +37,10 @@ function Team() {
                                 <span>Product Manager</span>
                                 <p>Aut maiores voluptates amet et quis praesentium qui senda para</p>
                                 <div className="social">
-                                    <a href=""><i className="ri-twitter-fill"></i></a>
-                                    <a href=""><i className="ri-facebook-fill"></i></a>
-                                    <a href=""><i className="ri-instagram-fill"></i></a>
-                                    <a href=""> <i className="ri-linkedin-box-fill"></i> </a>
+                                    <a className="nav-link" href=""><i className="ri-twitter-fill"></i></a>
+                                    <a className="nav-link" href=""><i className="ri-facebook-fill"></i></a>
+                                    <a className="nav-link" href=""><i className="ri-instagram-fill"></i></a>
+                                    <a className="nav-link" href=""> <i className="ri-linkedin-box-fill"></i> </a>
                                 </div>
                             </div>
                         </div>
@@ -54,10 +54,10 @@ function Team() {
                                 <span>CTO</span>
                                 <p>Quisquam facilis cum velit laborum corrupti fuga rerum quia</p>
                                 <div className="social">
-                                    <a href=""><i className="ri-twitter-fill"></i></a>
-                                    <a href=""><i className="ri-facebook-fill"></i></a>
-                                    <a href=""><i className="ri-instagram-fill"></i></a>
-                                    <a href=""> <i className="ri-linkedin-box-fill"></i> </a>
+                                    <a className="nav-link" href=""><i className="ri-twitter-fill"></i></a>
+                                    <a className="nav-link" href=""><i className="ri-facebook-fill"></i></a>
+                                    <a className="nav-link" href=""><i className="ri-instagram-fill"></i></a>
+                                    <a className="nav-link" href=""> <i className="ri-linkedin-box-fill"></i> </a>
                                 </div>
                             </div>
                         </div>
@@ -71,10 +71,10 @@ function Team() {
                                 <span>Accountant</span>
                                 <p>Dolorum tempora officiis odit laborum officiis et et accusamus</p>
                                 <div className="social">
-                                    <a href=""><i className="ri-twitter-fill"></i></a>
-                                    <a href=""><i className="ri-facebook-fill"></i></a>
-                                    <a href=""><i className="ri-instagram-fill"></i></a>
-                                    <a href=""> <i className="ri-linkedin-box-fill"></i> </a>
+                                    <a className="nav-link" href=""><i className="ri-twitter-fill"></i></a>
+                                    <a className="nav-link" href=""><i className="ri-facebook-fill"></i></a>
+                                    <a className="nav-link" href=""><i className="ri-instagram-fill"></i></a>
+                                    <a className="nav-link" href=""> <i className="ri-linkedin-box-fill"></i> </a>
                                 </div>
                             </div>
                         </div>

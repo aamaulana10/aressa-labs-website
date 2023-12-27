@@ -27,7 +27,7 @@ function About() {
                             velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
                             culpa qui officia deserunt mollit anim id est laborum.
                         </p>
-                        <a href="#" className="btn-learn-more">Learn More</a>
+                        <a href="#" className="nav-link btn-learn-more">Learn More</a>
                     </div>
                 </div>
 
