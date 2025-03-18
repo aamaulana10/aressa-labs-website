@@ -120,7 +120,7 @@ h6 {
 
 #header.header-scrolled,
 #header.header-inner-pages {
-  background: rgba(40, 58, 90, 0.9);
+  background: #E0F4FF;
 }
 
 #header .logo {
@@ -134,7 +134,7 @@ h6 {
 }
 
 #header .logo a {
-  color: #fff;
+  color: #333;
 }
 
 #header .logo img {
@@ -153,7 +153,7 @@ h6 {
 
 .navbar ul {
   margin: 0;
-  padding: 0;
+  padding: 60;
   display: flex;
   list-style: none;
   align-items: center;
@@ -168,10 +168,10 @@ h6 {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding: 10px 0 10px 30px;
-  font-size: 15px;
-  font-weight: 500;
-  color: #fff;
+  padding: 10px 0 10px 60px;
+  font-size: 16px;
+  font-weight: 600;
+  color: #333;
   white-space: nowrap;
   transition: 0.3s;
 }
@@ -187,22 +187,22 @@ h6 {
 .navbar .active,
 .navbar .active:focus,
 .navbar li:hover>a {
-  color: #47b2e4;
+  color: #333;
 }
 
 .navbar .getstarted {
   padding: 8px 20px;
   margin-left: 30px;
   border-radius: 50px;
-  color: #fff;
+  color: #333;
   font-size: 14px;
-  border: 2px solid #47b2e4;
+  border: 2px solid #333;
   font-weight: 600;
 }
 
 .navbar .getstarted:hover {
   color: #fff;
-  background: #31a9e1;
+  background: #39A7FF;
 }
 
 .navbar .dropdown ul {
@@ -387,7 +387,7 @@ h6 {
 #hero {
   width: 100%;
   height: 80vh;
-  background: #37517e;
+  background: #E0F4FF;
 }
 
 #hero .container {
@@ -399,11 +399,11 @@ h6 {
   font-size: 48px;
   font-weight: 700;
   line-height: 56px;
-  color: #fff;
+  color: #39A7FF;
 }
 
 #hero h2 {
-  color: rgba(255, 255, 255, 0.6);
+  color: #333;
   margin-bottom: 50px;
   font-size: 24px;
 }
@@ -544,7 +544,7 @@ section {
   margin-bottom: 20px;
   padding-bottom: 20px;
   position: relative;
-  color: #37517e;
+  color: #39A7FF;
 }
 
 .section-title h2::before {
@@ -743,7 +743,7 @@ section {
 }
 
 .why-us .accordion-list a.collapsed {
-  color: #343a40;
+  color: #47b2e4;
 }
 
 .why-us .accordion-list a.collapsed:hover {

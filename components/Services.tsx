@@ -6,40 +6,40 @@ function Services() {
             <div className="container" data-aos="fade-up">
 
                 <div className="section-title">
-                    <h2>Services</h2>
-                    <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+                    <h2>What We Offer</h2>
+                    <h4>End-to-End Mobile App Solutions</h4>
                 </div>
 
                 <div className="row">
                     <div className="col-xl-3 col-md-6 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
                         <div className="icon-box">
                             <div className="icon"><i className="bx bxl-dribbble"></i></div>
-                            <h4><a className='nav-link' href="">Lorem Ipsum</a></h4>
-                            <p>Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi</p>
+                            <h4><a className='nav-link' href="">Custom App Development</a></h4>
+                            <p>Tailored solutions that reflect your unique business requirements and goals.</p>
                         </div>
                     </div>
 
                     <div className="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="200">
                         <div className="icon-box">
                             <div className="icon"><i className="bx bx-file"></i></div>
-                            <h4><a className='nav-link' href="">Sed ut perspici</a></h4>
-                            <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore</p>
+                            <h4><a className='nav-link' href="">UI/UX Design</a></h4>
+                            <p>Intuitive and visually stunning designs that enhance user engagement</p>
                         </div>
                     </div>
 
                     <div className="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-xl-0" data-aos="zoom-in" data-aos-delay="300">
                         <div className="icon-box">
                             <div className="icon"><i className="bx bx-tachometer"></i></div>
-                            <h4><a className='nav-link' href="">Magni Dolores</a></h4>
-                            <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia</p>
+                            <h4><a className='nav-link' href="">Cross-Platform Development</a></h4>
+                            <p>Reach a broader audience with apps that work seamlessly across platforms</p>
                         </div>
                     </div>
 
                     <div className="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-xl-0" data-aos="zoom-in" data-aos-delay="400">
                         <div className="icon-box">
                             <div className="icon"><i className="bx bx-layer"></i></div>
-                            <h4><a className='nav-link' href="">Nemo Enim</a></h4>
-                            <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis</p>
+                            <h4><a className='nav-link' href="">Quality Assurance</a></h4>
+                            <p>Rigorous testing processes to ensure flawless performance and user satisfaction</p>
                         </div>
                     </div>
 

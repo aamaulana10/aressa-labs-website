@@ -12,9 +12,9 @@ function Whyus() {
                     <div className="col-lg-7 d-flex flex-column justify-content-center align-items-stretch  order-2 order-lg-1">
 
                         <div className="content">
-                            <h3>Eum ipsam laborum deleniti <strong>velit pariatur architecto aut nihil</strong></h3>
+                            <h3>Let's Build <strong>the Future Together</strong></h3>
                             <p>
-                                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit
+                                Aressa Labs is more than a mobile app development company; we're your strategic partner in the digital journey. Whether you're a startup with a groundbreaking idea or an established enterprise seeking digital transformation, we're here to bring your vision to life.
                             </p>
                         </div>
 

@@ -15,16 +15,16 @@ export default function Home() {
   return (
     <>
       <Hero />
-      <Clients />
-      <About />
-      <Whyus />
-      <Skills />
       <Services />
-      <Cta />
+      {/* <Clients /> */}
+      {/* <About /> */}
+      {/* <Whyus /> */}
+      {/* <Skills /> */}
+      {/* <Cta /> */}
       <Portofolio />
       <Team />
-      <Pricing />
-      <Faq />
+      {/* <Pricing /> */}
+      {/* <Faq /> */}
       <Contact />
     </>
   )
